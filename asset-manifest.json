@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/manufacturing-web/static/css/main.e10b8a99.css",
-    "main.js": "/manufacturing-web/static/js/main.1219dbc8.js",
+    "main.js": "/manufacturing-web/static/js/main.1ad74bba.js",
     "static/media/about.jpg": "/manufacturing-web/static/media/about.948bc5b40e043dbc4a81.jpg",
     "static/media/pic2.jpeg": "/manufacturing-web/static/media/pic2.360f2effb0767d7084ee.jpeg",
     "static/media/pic.jpeg": "/manufacturing-web/static/media/pic.aa313377840535c38297.jpeg",
     "index.html": "/manufacturing-web/index.html",
     "main.e10b8a99.css.map": "/manufacturing-web/static/css/main.e10b8a99.css.map",
-    "main.1219dbc8.js.map": "/manufacturing-web/static/js/main.1219dbc8.js.map"
+    "main.1ad74bba.js.map": "/manufacturing-web/static/js/main.1ad74bba.js.map"
   },
   "entrypoints": [
     "static/css/main.e10b8a99.css",
-    "static/js/main.1219dbc8.js"
+    "static/js/main.1ad74bba.js"
   ]
 }
