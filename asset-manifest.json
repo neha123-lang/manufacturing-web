@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manufacturing-website/static/css/main.e10b8a99.css",
+    "main.js": "/manufacturing-website/static/js/main.4fe659c2.js",
+    "static/media/about.jpg": "/manufacturing-website/static/media/about.948bc5b40e043dbc4a81.jpg",
+    "static/media/pic2.jpeg": "/manufacturing-website/static/media/pic2.360f2effb0767d7084ee.jpeg",
+    "static/media/pic.jpeg": "/manufacturing-website/static/media/pic.aa313377840535c38297.jpeg",
+    "index.html": "/manufacturing-website/index.html",
+    "main.e10b8a99.css.map": "/manufacturing-website/static/css/main.e10b8a99.css.map",
+    "main.4fe659c2.js.map": "/manufacturing-website/static/js/main.4fe659c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10b8a99.css",
+    "static/js/main.4fe659c2.js"
+  ]
+}
