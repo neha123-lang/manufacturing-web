@@ -7,7 +7,7 @@ import Gallery from "./components/gallery/Gallery";
 // import Hero from "./components/hero/Hero";
 import  Navbar from "./components/navbar/Navbar";
 import MainPage from "./mainPage/MainPage";
-import {Route,Routes}from 'react-router-dom';
+import {Route,Routes , HashRouter}from 'react-router-dom';
 import Contact from "./components/contact/Contact";
 import About from "./components/about/About";
 function App() {
